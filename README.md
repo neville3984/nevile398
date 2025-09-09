@@ -2,7 +2,7 @@
 </head>
 <body>
   <header>
-    <h1>🚀 My GitHub Project</h1>
+    <h1>🚀 MY GITHUB.COM PROJECT</h1>
     <p>A simple project hosted with GitHub Pages</p>
   </header>
 
@@ -16,7 +16,7 @@
     <h2>About</h2>
     <p>
       This is a sample project showcasing how to set up a repository with an <code>index.html</code> 
-      and publish it as a live website using GitHub Pages.
+      and deploy it on my programming website at github.
     </p>
   </section>
 
