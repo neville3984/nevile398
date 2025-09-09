@@ -1,67 +1,4 @@
-#GITHUB.COM
-<DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My GitHub Project</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      line-height: 1.6;
-      background: #f9f9f9;
-      color: #333;
-    }
-    header {
-      background: #222;
-      color: #fff;
-      padding: 2rem;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.5rem;
-    }
-    header p {
-      margin: 0.5rem 0 0;
-    }
-    nav {
-      background: #444;
-      padding: 0.5rem;
-      text-align: center;
-    }
-    nav a {
-      color: #fff;
-      margin: 0 1rem;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    section {
-      padding: 2rem;
-      max-width: 900px;
-      margin: auto;
-    }
-    .features {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 1.5rem;
-    }
-    .card {
-      background: #fff;
-      padding: 1.5rem;
-      border-radius: 10px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-      text-align: center;
-    }
-    footer {
-      background: #222;
-      color: #fff;
-      text-align: center;
-      padding: 1rem;
-      margin-top: 2rem;
-    }
+
   </style>
 </head>
 <body>
@@ -102,16 +39,16 @@
     </div>
   </section>
 
-  <section id="contact">
+  <section id="0799995917>
     <h2>Contact</h2>
     <p>
       Have feedback or ideas? Reach out via 
-      <a href="https://github.com/your-username" target="_blank">GitHub</a>.
+      <a href="https://github.com/@nevilleomondi882@gmail.com" target="_blank">GitHub</a>.
     </p>
   </section>
 
   <footer>
-    <p>© 2025 My GitHub Project | Built with ❤️ and GitHub Pages</p>
+    <p>© 2025 My GitHub Project | Built with ❤️ and GitHub love and passion</p>
   </footer>
 </body>
 </html>
