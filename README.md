@@ -1,5 +1,4 @@
 
-  </style>
 </head>
 <body>
   <header>
