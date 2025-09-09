@@ -15,7 +15,7 @@
   <section id="about">
     <h2>About</h2>
     <p>
-      This is a sample project showcasing how to set up a repository with an <code>index.html</code> 
+      This is a sample project showcasing how  to simply set up a repository with an <code>index.html</code> 
       and deploy it on my programming website at github.
     </p>
   </section>
